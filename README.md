@@ -33,6 +33,7 @@ _bioRxiv_ 2021.08.13.456235; doi: https://doi.org/10.1101/2021.08.13.456235
 - Longo, S.K., Guo, M.G., Ji, A.L. et al. *Integrating single-cell and spatial transcriptomics to elucidate intercellular tissue dynamics.* _Nat Rev Genet_ 22, 627–644 (2021). https://doi.org/10.1038/s41576-021-00370-8. Nice review with a focus on studying the tumor micronvironment.
 - Palla, G., Fischer, D.S., Regev, A. et al. *Spatial components of molecular tissue biology.* _Nat Biotechnol_ 40, 308–318 (2022). https://doi.org/10.1038/s41587-021-01182-1
 - Zeng, Z., Li, Y., Li, Y. et al. *Statistical and machine learning methods for spatially resolved transcriptomics data analysis.* _Genome Biol_ 23, 83 (2022). https://doi.org/10.1186/s13059-022-02653-7
+- Liu, B., Li, Y., Zhang, L. *Analysis and Visualization of Spatial Transcriptomic Data* _Front. Genet._ (2022). https://doi.org/10.3389/fgene.2021.785290
 
 ## _Other resources_
 Online workshops and explanations on several analytical approaches for spatial transcriptomics data analysis can be found [here](https://www.singlecell.de/index.php/resources/media/).
