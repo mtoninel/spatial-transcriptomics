@@ -37,3 +37,4 @@ _bioRxiv_ 2021.08.13.456235; doi: https://doi.org/10.1101/2021.08.13.456235
 
 ## _Other resources_
 Online workshops and explanations on several analytical approaches for spatial transcriptomics data analysis can be found [here](https://www.singlecell.de/index.php/resources/media/).
+A book on geographical data science in Python: https://geographicdata.science/book/intro.html 
