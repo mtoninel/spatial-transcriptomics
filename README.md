@@ -24,9 +24,12 @@ _bioRxiv_ 2021.08.13.456235; doi: https://doi.org/10.1101/2021.08.13.456235
 - [BayesSpace](https://github.com/edward130603/BayesSpace), a Bayesian model for clustering and enhancing the resolution of spatial gene expression experiments. Zhao, E., Stone, M.R., Ren, X. et al. *Spatial transcriptomics at subspot resolution with BayesSpace.* _Nat Biotechnol_ 39, 1375–1384 (2021). https://doi.org/10.1038/s41587-021-00935-2
 - BayesPrism: a fully Bayesian approach to deconvolve the tumor microenvironment, also applicable to spatial transcriptomics data. Chu, T., Wang, Z., Pe’er, D. et al. *Cell type and gene expression deconvolution with BayesPrism enables Bayesian integrative analysis across bulk and single-cell RNA sequencing in oncology.* _Nat Cancer_ (2022). https://doi.org/10.1038/s43018-022-00356-3
 - *NovoSpaRc*: a framework for spatial tissue reconstruction starting from scRNA-seq data. [introductory paper](https://www.nature.com/articles/s41586-019-1773-3) and [methodological paper](https://www.nature.com/articles/s41596-021-00573-7)
+- [RCTD](https://github.com/dmcable/spacexr), an R package to inspect celltype admixtures in spatial transcriptomics data. *Robust decomposition of cell type mixtures in spatial transcriptomics*, _Nat Biotechnol_. https://doi.org/10.1038/s41587-021-00830-w 
 
 ## _Further downstream analysis_
 - [ncem](https://github.com/theislab/ncem) by David S. Fischer, Anna C. Schaar, Fabian J. Theis, *Learning cell communication from spatial graphs of cells*, bioRxiv (2021), https://doi.org/10.1101/2021.07.11.451750
+- [C-SIDE](https://github.com/dmcable/spacexr) by Dylan M. Cable, Evan Murray, Fei Chen _et al._, *Cell type-specific inference of differential expression in spatial transcriptomics*, _Nature Methods_ (2022). https://doi.org/10.1038/s41592-022-01575-3
+- [CellCharter](https://github.com/CSOgroup/cellcharter) by Marco Varrone _et al._, *CellCharter: a scalable framework to chart and compare cell niches across multiple samples and spatial -omics technologies*, _bioRxiv_ (2022). https://doi.org/10.1101/2023.01.10.523386 
 
 ## _Reviews_
 - Moses, L., Pachter, L. *Museum of spatial transcriptomics.* _Nat Methods_ (2022). https://doi.org/10.1038/s41592-022-01409-2
